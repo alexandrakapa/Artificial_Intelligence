@@ -10,3 +10,7 @@ We implemented a movie recommendation system. First of all we constructed our kn
 
 * Third project:\
 We implemented the following machine learning classifiers: KNN, Naive Bayes, Multi-Layer perceptron in order to classify music songs to specific classes.
+
+Our team:
+* [Kaparou Alexandra](https://github.com/alexandrakapa) 
+* [Poutas Sokratis](https://github.com/Paleho)
